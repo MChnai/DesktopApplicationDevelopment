@@ -1,0 +1,37 @@
+{
+  "Student": [
+    {
+      "Id": "2312805",
+      "LastName": "Tran Ngoc Nhu",
+      "Name": "Y",
+      "Class": "CTK47C",
+      "DateBirth": "12/10/2005",
+      "CMND": "21365087",
+      "Phone": "0987654321",
+      "Address": "Nguyen Van Troi",
+      "Gender": "Nu"
+    },
+    {
+      "Id": "2312806",
+      "LastName": "Nguyen Kim",
+      "Name": "Yen",
+      "Class": "CTK47C",
+      "DateBirth": "22/01/2005",
+      "CMND": "21749087",
+      "Phone": "0987654321",
+      "Address": "Nguyen Hoang",
+      "Gender": "Nam"
+    },
+    {
+      "Id": "2312760",
+      "LastName": "Bien Tran Anh",
+      "Name": "Thu",
+      "Class": "CTK47C",
+      "DateBirth": "22/08/2005",
+      "CMND": "21365747",
+      "Phone": "0987654321",
+      "Address": "Mai Xuan Thuong",
+      "Gender": "Nu"
+    }
+  ]
+}

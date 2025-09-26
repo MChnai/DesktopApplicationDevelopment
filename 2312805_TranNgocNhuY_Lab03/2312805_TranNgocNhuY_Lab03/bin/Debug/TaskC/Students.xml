@@ -1,0 +1,34 @@
+﻿<?xl version="1.0" encoding="utf-8" ?>
+<catalog>
+	<Student Id = "2312805">
+		<LastName>Tran Ngoc Nhu</LastName>
+		<Name>Y</Name>
+		<Class>CTK47C</Class>
+		<DateBirth>12/10/2005</DateBirth>
+		<CMND>4528869</CMND>
+		<Phone>768553453567</Phone>
+		<Adress>Nguyen Van Troi</Adress>
+		<Gender>Nu</Gender>
+	</Student>
+	<Student Id = "2312806">
+		<LastName>Nguyen Kim</LastName>
+		<Name>Yen</Name>
+		<Class>CTK47C</Class>
+		<DateBirth>22/01/2005</DateBirth>
+		<CMND>4528679</CMND>
+		<Phone>768553453567</Phone>
+		<Adress>Nguyen Hoang</Adress>
+		<Gender>Nu</Gender>
+	</Student>
+	<Student Id = "231280760">
+		<LastName>Bien Tran Anh</LastName>
+		<Name>Thu</Name>
+		<Class>CTK47C</Class>
+		<DateBirth>22/08/2005</DateBirth>
+		<CMND>4528669</CMND>
+		<Phone>768553453567</Phone>
+		<Adress>Mai Xuan THuong</Adress>
+		<Gender>Nu</Gender>
+	</Student>
+</catalog>
+

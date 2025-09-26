@@ -1,0 +1,25 @@
+{
+  "Student": [
+    {
+      "Id": "2312805",
+      "Name": "Tran Ngoc Nhu Y",
+      "Age": 20,
+      "Grade": 8.5,
+      "TonGiao": "Khong"
+    },
+    {
+      "Id": "2312806",
+      "Name": "Nguyen Kim Yen",
+      "Age": 20,
+      "Grade": 8,
+      "TonGiao": "Co"
+    },    
+    {
+      "Id": "2312760",
+      "Name": "Bien Tran Anh Thu",
+      "Age": 20,
+      "Grade": 8.8,
+      "TonGiao": "Khong"
+    }
+  ]
+}
