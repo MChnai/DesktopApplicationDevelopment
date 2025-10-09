@@ -1,0 +1,3 @@
+1,Nguyen Van A,San Xuat A,Da Lat,09876543210
+2,Tran Van B,12345537512,San Xuat B ,Ninh Thuan
+3,Vo Thi C,Khanh Hoa,5432198732,San Xuat B

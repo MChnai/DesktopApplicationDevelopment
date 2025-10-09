@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <Data>
+    <ID>1</ID>
+    <Name>A</Name>
+    <Address>Da Lat</Address>
+    <Phone>09876543210</Phone>
+    <Description>San Xuat A</Description>
+  </Data>
+  <Data>
+    <ID>2</ID>
+    <Name>B</Name>
+    <Address>Ninh Thuan</Address>
+    <Phone>12345537512</Phone>
+    <Description>San Xuat B </Description>
+  </Data>
+</Root>
