@@ -1,0 +1,17 @@
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\bin\Debug\2312805_TranNgocNhuY_Lab05.exe.config
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\bin\Debug\2312805_TranNgocNhuY_Lab05.exe
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\bin\Debug\2312805_TranNgocNhuY_Lab05.pdb
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\2312805_TranNgocNhuY_Lab05.csproj.AssemblyReference.cache
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\_2312805_TranNgocNhuY_Lab05.Forms.FoodForm.resources
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\_2312805_TranNgocNhuY_Lab05.Properties.Resources.resources
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\2312805_TranNgocNhuY_Lab05.csproj.GenerateResource.cache
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\2312805_TranNgocNhuY_Lab05.csproj.CoreCompileInputs.cache
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\2312805_TranNgocNhuY_Lab05.exe
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\2312805_TranNgocNhuY_Lab05.pdb
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\2312805_TranNgocNhuY_Lab05.exe.config
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\_2312805_TranNgocNhuY_Lab05.Forms.FoodInfoForm.resources
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\_2312805_TranNgocNhuY_Lab05.Forms.CategoryInfoForm.resources
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\_2312805_TranNgocNhuY_Lab05.Forms.OrdersForm.resources
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\_2312805_TranNgocNhuY_Lab05.Forms.AccountForm.resources
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\_2312805_TranNgocNhuY_Lab05.Forms.RoleInfo.resources
+G:\STUDY\PTUDD\2312805_TranNgocNhuY_Lab05\2312805_TranNgocNhuY_Lab05\obj\Debug\_2312805_TranNgocNhuY_Lab05.Forms.DiaryForm.resources
